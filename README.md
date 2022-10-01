@@ -12,7 +12,7 @@
     [SQL Scripts](https://github.com/korharleen/NashvilleHousing-Data-Cleaning-Project/blob/main/Nashiville.sql)
 
 ## Posted on 
-👉 [Medium](https://medium.com/p/1b04e94ceecb/edit)
+👉 [Medium](https://dharleen22.medium.com/nashville-housing-data-cleaning-project-1b04e94ceecb)
 
 ## Big Thanks 
 👉 [Alex the Analyst](https://www.youtube.com/c/AlexTheAnalyst) for your guidance in this project.
